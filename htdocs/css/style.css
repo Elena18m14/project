@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+  font-size: 15pt; /* Размер основного шрифта в пунктах  */
+  background-color: #009900; /* Цвет фона веб-страницы */
+  color: #333; /* Цвет основного текста */ 
+}
+h1 {
+  color: #a52a2a; /* Цвет заголовка */
+  font-size: 14pt; /* Размер шрифта в пунктах */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  font-weight: normal; /* Нормальное начертание текста  */
+}
+p {
+  text-align: justify; /* Выравнивание по ширине */
+  margin-left: 100px; /* Отступ слева в пикселах */
+  margin-right: 1080px; /* Отступ справа в пикселах */
+  border-style: double;
+  border-color: #cacd58;
+  border-left: 1px solid #999; /* Параметры линии слева */
+  border-right: 1px solid #111; /* Параметры линии слева */
+  border-bottom: 1px solid #999; /* Параметры линии снизу */
+  border-top: 1px solid #999; /* Параметры линии снизу */
+  border-width: 4px;
+  padding-right: 10px; /* Отступ от линии слева до текста  */
+  padding-left: 10px; /* Отступ от линии слева до текста  */
+  padding-bottom: 10px; /* Отступ от линии снизу до текста  */
+  padding-top: 10px; /* Отступ от линии снизу до текста  */
+}
